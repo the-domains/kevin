@@ -1,6 +1,6 @@
 name: kevin
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.2539282680954784
 title: musings and insights
 cta:
   domain: null
@@ -24,3 +24,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.7464771862141788
